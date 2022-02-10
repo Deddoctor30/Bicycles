@@ -1,2 +1,2 @@
 # Bicycles
-None JS
+No JS
